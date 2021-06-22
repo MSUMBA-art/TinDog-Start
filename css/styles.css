@@ -73,7 +73,7 @@ p {
 .tittle-img {
   width: 60%;
   transform: rotate(25deg);
-  
+
   position: absolute;
   right: 30%;
 }
@@ -84,8 +84,6 @@ p {
   padding: 7% 15%;
   background-color: #fff;
   position: relative;
-  marg0%;
-  
 }
 
 .feature-box {
