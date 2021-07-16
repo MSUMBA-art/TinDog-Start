@@ -137,7 +137,7 @@ p {
 #pricing {
   padding: 100px;
   text-align: center;
-  background-color: #103bcc;
+  background-color: rgb(222, 237, 241);
 }
 
 .price-text {
