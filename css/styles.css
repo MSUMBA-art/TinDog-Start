@@ -16,8 +16,6 @@ h6 {
   font-family: "Montserrat-Bold";
 }
 
-
-
 h3 {
   font-size: 1.5rem;
 }
@@ -139,6 +137,7 @@ p {
 #pricing {
   padding: 100px;
   text-align: center;
+  background-color: #103bcc;
 }
 
 .price-text {
